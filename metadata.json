@@ -1,0 +1,6 @@
+{
+  "name": "MLOps Agent Control Tower",
+  "description": "Multi-agent system featuring Deployment, Log Analysis, Model Quality, Documentation, and Incident Summarizer agents to maintain and monitor deployed ML models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
